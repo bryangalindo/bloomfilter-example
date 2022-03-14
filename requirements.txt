@@ -1,0 +1,6 @@
+Deprecated==1.2.13
+packaging==21.3
+pybloomfiltermmap3==0.5.5
+pyparsing==3.0.7
+redis==4.1.4
+wrapt==1.14.0
